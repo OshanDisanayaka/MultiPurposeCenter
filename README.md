@@ -32,7 +32,7 @@ You may **not** copy, modify, redistribute, or use this code for any commercial 
 
 If you'd like to use or reference any part of this code, please contact the developer directly.
 
-# Full Page Screenshots
+## Full Page Screenshots
 
 ![Image](https://github.com/user-attachments/assets/7f4006d3-2e65-4d8e-ac38-490bcc83cb84)
 ![Image](https://github.com/user-attachments/assets/d5ecee8b-2867-488a-a1c1-d711702f57f8)
